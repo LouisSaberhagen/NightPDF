@@ -1,6 +1,7 @@
-I archived this project because it was only a proof-of-concept for me. 
+> **Warning**
+> This project is no longer maintained. Original source code provided as is.
 
-@Lunarequest took the project and actively mantains it: https://github.com/Lunarequest/NightPDF
+Follow Lunarequest for an up-to-date version: https://github.com/Lunarequest/NightPDF
 
 # NightPDF
 

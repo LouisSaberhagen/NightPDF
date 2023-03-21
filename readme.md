@@ -1,7 +1,7 @@
 > **Warning**
 > This project is no longer maintained. Original source code provided as is.
 
-Follow Lunarequest for an up-to-date version: https://github.com/Lunarequest/NightPDF
+Follow Lunarequest for an up-to-date maintained version: https://github.com/Lunarequest/NightPDF
 
 # NightPDF
 

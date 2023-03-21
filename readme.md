@@ -1,10 +1,14 @@
-This project is archived, binaries are no longer provided. If you wish to run it you must compile it yourself.
+I archived this project because it was only a proof-of-concept for me. 
+
+@Lunarequest took the project and actively mantains it: https://github.com/Lunarequest/NightPDF
 
 # NightPDF
 
-Dark Mode PDF reader. It uses Electron but my eyes dont care.
+Dark Mode PDF reader. 
 
 ![NightPDF logo](docs/nightpdf_small.png?raw=true)
+
+It uses Electron but my eyes dont care.
 
 ![NightPDF screencast](docs/nightpdf.gif?raw=true)
 
